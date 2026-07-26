@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1050410535345",
+    "firebase_url": "https://osama-biznes-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "osama-biznes",
+    "storage_bucket": "osama-biznes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050410535345:android:fbd9a808541cb0902f1590",
+        "android_client_info": {
+          "package_name": "com.gurage.pos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAvE7awsAm-vio9uRmKYHn5QB99RzlQMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
