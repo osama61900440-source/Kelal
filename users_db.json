@@ -1,0 +1,26 @@
+{
+  "+251961900440": {
+    "phone": "+251961900440",
+    "password": "testpassword123",
+    "role": "owner",
+    "store_id": "store_251961900440",
+    "storeId": "store_251961900440",
+    "isOwner": true,
+    "name": "Osama",
+    "fullName": "Osama",
+    "createdAt": 1789459237287,
+    "updatedAt": 1789459237287
+  },
+  "0961900440": {
+    "phone": "+251961900440",
+    "password": "testpassword123",
+    "role": "owner",
+    "store_id": "store_251961900440",
+    "storeId": "store_251961900440",
+    "isOwner": true,
+    "name": "Osama",
+    "fullName": "Osama",
+    "createdAt": 1789459237287,
+    "updatedAt": 1789459237287
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "store_251961900440": {
+    "store_id": "store_251961900440",
+    "shopId": "store_251961900440",
+    "name": "Seniya Store",
+    "owner_phone": "+251961900440",
+    "ownerPhoneNumber": "+251961900440",
+    "owner_id": "+251961900440",
+    "ownerPin": "testpassword123",
+    "employees": [],
+    "inventory": [],
+    "sales": [],
+    "expenses": [],
+    "shipments": [],
+    "customers": [],
+    "profile": {
+      "shopName": "Seniya Store",
+      "ownerName": "Osama",
+      "phone": "+251961900440"
+    },
+    "createdAt": 1789459237287,
+    "updatedAt": 1789459237287
+  }
+}
